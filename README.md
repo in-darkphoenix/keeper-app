@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Keeper App
+
+Analogous to the Google's Keep
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
